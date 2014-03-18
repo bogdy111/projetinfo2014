@@ -3,7 +3,7 @@
 #include "Vecteur.h"
 #include <cmath>
 
-using namespace std;
+using namespace std;  // c'est pour tester le merge
 
 Vecteur::Vecteur(double X, double Y, double Z){
 			x = X;

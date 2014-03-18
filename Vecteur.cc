@@ -3,7 +3,7 @@
 #include "Vecteur.h"
 #include <cmath>
 
-using namespace std;
+using namespace std;  // les commentaires sont nuls
 
 double Vecteur::getX(){
 	return x;

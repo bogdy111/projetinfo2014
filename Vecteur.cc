@@ -14,7 +14,7 @@ double Vecteur::getY(){
 double Vecteur::getZ(){
 	return z;
 }
-void Vecteur::setX(double a){
+void Vecteur::setX(double a){ // c'est le bordel
 	x = a;
 }
 void Vecteur::setY(double a){

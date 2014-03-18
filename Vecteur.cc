@@ -5,7 +5,7 @@
 
 using namespace std;
 
-double Vecteur::getX(){
+double Vecteur::getX(){   //ça fait chier
 	return x;
 }
 double Vecteur::getY(){
